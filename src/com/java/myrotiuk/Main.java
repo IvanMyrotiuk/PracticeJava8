@@ -40,5 +40,6 @@ public class Main {
         String resultOfSmth = converter3.convert("Java");
         System.out.println("resultOfSmth = " + resultOfSmth);
         System.out.println("Hello git");
+        System.out.println("Hello 2");
     }
 }
