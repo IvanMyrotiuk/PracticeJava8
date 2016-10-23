@@ -121,6 +121,7 @@ public class Main2 {
         System.out.println("countResultTiming2 = " + countResultTiming2 + " resultTiming2 = " + millis2);
 
         System.out.println("change commit1 at master in MAIN2");
+        System.out.println("change commit2 at master in MAIN2");
 
     }
 }
