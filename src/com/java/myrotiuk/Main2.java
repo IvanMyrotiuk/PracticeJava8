@@ -120,5 +120,7 @@ public class Main2 {
         long millis2 = TimeUnit.NANOSECONDS.toMillis(end2 - start2);
         System.out.println("countResultTiming2 = " + countResultTiming2 + " resultTiming2 = " + millis2);
 
+        System.out.println("change commit1 at master in MAIN2");
+
     }
 }

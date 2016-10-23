@@ -44,5 +44,7 @@ public class Main {
 
         System.out.println("Hello 1");
         System.out.println("Hello 3");
+
+        System.out.println("change commit1 at master in MAIN");
     }
 }
