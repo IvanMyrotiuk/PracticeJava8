@@ -44,8 +44,10 @@ public class Main {
 
         System.out.println("Hello 1");
         System.out.println("Hello 3");
+        System.out.println("AAAAAAAAAAAAAAAAAAAAS");
 
         System.out.println("change commit1 at master in MAIN");
+        System.out.println("change commit1 at master in MAIN   MASTER");
         System.out.println("change commit2 at master in MAIN");
     }
 }

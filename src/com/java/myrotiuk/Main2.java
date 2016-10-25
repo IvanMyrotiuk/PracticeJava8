@@ -96,7 +96,7 @@ public class Main2 {
         System.out.println("count =" + count);
 
         System.out.println("=------------Reducer----------------=");
-        String resultReduced = letters.stream().sorted().reduce("John is the best: ", (result, elem) -> result + "#" + elem);
+        String resultReduced = letters.stream().sorted().re.reduce("John is the best: ", (result, elem) -> result + "#" + elem);
         System.out.println("resultReduced = "+resultReduced);
 
         System.out.println("=---Parallel Streams ---=");
@@ -120,7 +120,11 @@ public class Main2 {
         long millis2 = TimeUnit.NANOSECONDS.toMillis(end2 - start2);
         System.out.println("countResultTiming2 = " + countResultTiming2 + " resultTiming2 = " + millis2);
 
+        System.out.println("FFFFFFFFFFFFFFFFFFFFf");
+
+
         System.out.println("change commit1 at master in MAIN2");
+        System.out.println("change commit1 at master in MAIN   MASTER");
         System.out.println("change commit2 at master in MAIN2");
 
     }
