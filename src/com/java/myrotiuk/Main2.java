@@ -123,7 +123,7 @@ public class Main2 {
         System.out.println("FFFFFFFFFFFFFFFFFFFFf");
 
 
-        System.out.println("New add");
+        System.out.println("New add 1111");
 
         System.out.println("change commit1 at master in MAIN2");
         System.out.println("change commit1 at master in MAIN   MASTER");
