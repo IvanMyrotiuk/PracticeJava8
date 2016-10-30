@@ -6,7 +6,7 @@ package com.java.myrotiuk;
 public class Something {
 
     public String startWith(String smth){
-        System.out.println("Hello1");
+        System.out.println("Hello");
         return String.valueOf(smth.charAt(0));
     }
 }
